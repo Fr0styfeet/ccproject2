@@ -21,7 +21,7 @@ class Navbar extends React.Component {
                 <Link to="/products">Products</Link>
               </li>
               <li>
-                <Link to="/addproduct">Add Product</Link>
+                // <Link to="/addproduct">Add Product</Link>
               </li>
             </div>
           </div>
